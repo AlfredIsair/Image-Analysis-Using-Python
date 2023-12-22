@@ -26,4 +26,5 @@ The notebook provides a step-by-step guide to:
 5.Visualizing and analyzing the results.
 
 Dependencies: Ensure all required libraries are installed before running the notebook.
+
 Customization: The notebook can be adapted to specific image analysis tasks and research questions.
